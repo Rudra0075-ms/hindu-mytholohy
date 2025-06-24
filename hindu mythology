@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hindu Mythology Stories</title>
+</head>
+<body style="margin:0; font-family:Georgia, serif; background-color:#fff8e1; color:#333;">
+
+  <header style="background-color:#4e342e; color:white; padding:1rem; text-align:center;">
+    <h1>Hindu Mythology Stories</h1>
+    <p>Ancient tales from the land of Vedas and epics</p>
+  </header>
+
+  <div style="padding:2rem;">
+
+    <section style="background-color:#ffffff; padding:1rem; margin-bottom:2rem; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+      <h2 style="color:#6a1b9a;">The Descent of the Ganga</h2>
+      <p>To purify the souls of ancestors, King Bhagiratha performed intense penance. Moved, Lord Brahma agreed to release the celestial river Ganga. But her mighty force could destroy Earth, so Lord Shiva caught her in his locks and gently released her, allowing Ganga to flow safely.</p>
+    </section>
+
+    <section style="background-color:#ffffff; padding:1rem; margin-bottom:2rem; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+      <h2 style="color:#6a1b9a;">The Birth of Lord Ganesha</h2>
+      <p>Goddess Parvati created Ganesha from clay to guard her while she bathed. When Shiva returned and was denied entry, he beheaded Ganesha in anger. Parvati was distraught, so Shiva replaced the head with that of an elephant, giving rise to the beloved god of beginnings and wisdom.</p>
+    </section>
+
+    <section style="background-color:#ffffff; padding:1rem; margin-bottom:2rem; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+      <h2 style="color:#6a1b9a;">The Churning of the Ocean (Samudra Manthan)</h2>
+      <p>To obtain the nectar of immortality, gods and demons churned the cosmic ocean using Mount Mandara and the serpent Vasuki. Many divine objects emerged, including the goddess Lakshmi and the deadly poison Halahala, which Lord Shiva consumed to save the universe, turning his throat blue.</p>
+    </section>
+
+    <section style="background-color:#ffffff; padding:1rem; margin-bottom:2rem; border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+      <h2 style="color:#6a1b9a;">Lord Rama’s Exile and Victory</h2>
+      <p>Lord Rama, the prince of Ayodhya, was exiled for 14 years. During his exile, his wife Sita was abducted by the demon king Ravana. With the help of Hanuman and his allies, Rama waged a war in Lanka, defeated Ravana, and upheld dharma, returning victoriously to Ayodhya.</p>
+    </section>
+
+  </div>
+
+  <footer style="background-color:#4e342e; color:white; text-align:center; padding:1rem;">
+    <p>&copy; 2025 Hindu Mythology. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
